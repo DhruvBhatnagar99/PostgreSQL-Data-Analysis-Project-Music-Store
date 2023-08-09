@@ -8,7 +8,7 @@ Schema - Music Store Database
 
 
 ### Database and Tools
-1. Postgre SQL
+1. PostgreSQL
 2. PgAdmin4
 
 
