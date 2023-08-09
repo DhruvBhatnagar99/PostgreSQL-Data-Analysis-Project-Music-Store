@@ -17,6 +17,6 @@ Schema - Music Store Database
 This SQL project focuses on extracting valuable insights from a music store's database. The analysis offers:
 
 1. Sales trends and customer behavior insights.
-2. Customer demographics and loyalty patterns.
+2. Customer demographics.
    
 By leveraging SQL queries, this project showcases my ability to derive actionable insights from complex data. It demonstrates the role of data analysis in enhancing business operations and customer experiences in the music retail industry.
